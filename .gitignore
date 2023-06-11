@@ -1,0 +1,7 @@
+# Ignore environment variables
+numbers.env
+tokens.env
+
+
+# Ignore modules artifacts
+/node_modules/
