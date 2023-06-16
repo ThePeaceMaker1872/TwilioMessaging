@@ -7,5 +7,3 @@ For more info checkout Twilio's webpage
 
 ## 💌Screenshot of the message
 This message was sent to my personal phone number
-
-![Alt text](70233.jpg)
